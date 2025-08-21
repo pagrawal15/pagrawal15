@@ -1,4 +1,4 @@
- 👩‍💻 Priyanka Agrawal – Data Scientist & Analytics Engineer
+# 👩‍💻 Priyanka Agrawal – Data Scientist & Analytics Engineer
 
 Welcome to my GitHub portfolio!
 
